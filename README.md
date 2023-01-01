@@ -1,2 +1,0 @@
-# Eventor
-Website für Eventor
